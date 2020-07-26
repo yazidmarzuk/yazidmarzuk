@@ -5,6 +5,6 @@
 
 - 💻 I am into **Robotics, Web Development, Internet of Things, App Development** and **Cloud Computing**. I am up for learning new things everyday!
 - 💡 I am a **Campus Ambassador** for **Coding Ninjas** & **Coding Blocks** currently.
-- 🏆 I am one of the Finalists for **Hack In India hackathon** from SRM IST, one of the winners of SIIC open day. 
+- 🏆 I am one of the Finalists for **Hack In India hackathon** ,**Bajaj finserv HealthRx Hackthon**  from SRM IST, one of the winners of SIIC open day. 
 
-- 💬 I am open to Work Opportunities. Please feel free to reach out to me over [GitHub](https://www.github.com/yazidmarzuk) or [LinkedIn](https://www.linkedin.com/in/marzukkp).
+- 💬 I am open to Project Collabs. Please feel free to reach out to me over [GitHub](https://www.github.com/yazidmarzuk) or [LinkedIn](https://www.linkedin.com/in/marzukkp).
