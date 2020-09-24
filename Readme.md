@@ -10,7 +10,6 @@
 - 💡 I am a **Campus Ambassador** for **Coding Ninjas**, **Indian Robotics Community**&**Coding Blocks** currently.
 
 
-- 🎯 I am a Core Technical Member of The Project Team.
 - 🏆 our team won 2nd Prize at SRMH-HackChennai Competition and was one of the Finalists for **Hack In India hackathon** and **Bajaj finserv HealthRx Hackthon**  from SRM IST and we were one of the winners of SIIC open day. 
 
 - 💬 I am open to Project Collabs. Please feel free to reach out to me over [GitHub](https://www.github.com/yazidmarzuk) or [LinkedIn](https://www.linkedin.com/in/marzukkp).
