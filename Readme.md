@@ -18,4 +18,4 @@
 ![Marzuk's github stats](https://github-readme-stats.vercel.app/api?username=yazidmarzuk&count_private=true&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazidmarzuk&layout=compact&count_private=true&theme=dracula) 
-![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=yazidmarzuk&repo=yazidmarzuk.in&show_icons=true&theme=dracula)
+![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=yazidmarzuk&repo=portfolio_2.0&show_icons=true&theme=dracula)
