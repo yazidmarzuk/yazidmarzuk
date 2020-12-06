@@ -15,7 +15,7 @@
 - 💬 I am open to Project Collabs. Please feel free to reach out to me over [GitHub](https://www.github.com/yazidmarzuk) or [LinkedIn](https://www.linkedin.com/in/marzukkp).
 
 
-![Marzuk's github stats](https://github-readme-stats.vercel.app/api?username=yazidmarzuk&count_private=true&show_icons=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazidmarzuk&layout=compact&count_private=true&theme=dracula) 
+![Marzuk's github stats](https://github-readme-stats.vercel.app/api?username=yazidmarzuk&count_private=true&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazidmarzuk&layout=compact&count_private=true&theme=dracula) 
 
 
-![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=yazidmarzuk&repo=portfolio_2.0&show_icons=true&theme=dracula)
