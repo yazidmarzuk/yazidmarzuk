@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ### I am *Yazid Marzuk* from *SRM Institute of Science and Technology, Kattankulathur*. Here's a list of things about me:
-- 🎯 I am a Core Technical Member of The Project Team.
+- 🎯 I am The Tech Lead of The Project Team.
 - 🎯 I am a Technical Member of The SRM Team Humanoid.
 - 🎯 I am a Technical Member of Assossiation of Mechatronics Engineers.
 
