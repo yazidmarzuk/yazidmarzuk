@@ -1,21 +1,52 @@
 # Hi there! 👋
 
-### I am *Yazid Marzuk* from *SRM Institute of Science and Technology, Kattankulathur*. Here's a list of things about me:
-- 🎯 I am The Tech Lead of The Project Team.
-- 🎯 I am a Electronics Domain Lead of The SRM Team Humanoid.
-- 🎯 I am a Technical Member of Assossiation of Mechatronics Engineers.
+### I’m **Yazid Marzuk**, a Robotics Engineer from the **University of Michigan - Ann Arbor** 🇺🇸  
 
+---
 
-- 💻 I am into **Robotics, Web Development, Internet of Things, App Development** and **Cloud Computing**. I am up for learning new things everyday!
-- 💡 I am a **Campus Ambassador** for **Coding Ninjas**, **Indian Robotics Community**&**Coding Blocks** currently.
+### 🔬 Current Roles:
+- 🧠 **Research Assistant** at the [ROAHM Lab](https://roahm.engin.umich.edu/), working under Prof. **Ram Vasudevan**  
+- 🤖 **Robotics Software Intern** at **RightHand Robotics**, Boston, Massachusetts
 
+---
 
-- 🏆 our team won 2nd Prize at **SRMH-HackChennai** Competition and was one of the Finalists for **Hack In India hackathon** and **Bajaj finserv HealthRx Hackthon**  from SRM IST and we were one of the winners of SIIC open day. 
+### 💼 Technical Focus Areas:
+- **Advanced Motion Planning** (Gaussian Splatting, Trajectory Optimization, Constrained Planning)  
+- **Reinforcement Learning** for mobile manipulation in **Habitat 2.0**  
+- **6DoF Grasping** pipelines using **AnyGrasp, GraspNet**, and **PoseCNN**  
+- **Teleoperation** of dual-arm systems using **AR/VR, IMUs, and Phone Pose Tracking**  
+- **Perception for Manipulation** (Depth Completion, PointNet++, TransCG, Pose Estimation)  
+- **Robot Control** (Inverse Kinematics via IPOPT + Pinocchio, Effort/Position Control with ROS)  
+- Integration of **SLAM** with **Ouster LiDAR**, **FAST-LIO**, **LIO-SAM**, and **Gazebo**  
+- Real-world experiments on **Fetch**, **UR10**, and **Interbotix** robots
 
-- 💬 I am open to Project Collabs. Please feel free to reach out to me over [GitHub](https://www.github.com/yazidmarzuk) or [LinkedIn](https://www.linkedin.com/in/marzukkp).
+---
 
+### 🛠️ Recent Projects:
+- 📦 **Multiskill Mobile Manipulation (MSMM)** with Habitat-Lab  
+- 📱 **Real-time Teleoperation** using ARKit/ARCore phone pose via Unity → ROS bridge  
+- 🧤 **IMU-based Glove** for end-effector control and trajectory tracking  
+- 🌿 **Organic Farming e-Commerce Platform** (Business Dev + Full Stack MVP)  
+- 🧪 Setup of real-world grasp pipelines for **transparent/deformable objects** using **RGB-D + TransCG**
+
+---
+
+### 🏆 Awards & Achievements:
+- 🥈 **2nd Prize**, SRMH-HackChennai  
+- 🏅 Finalist, **Hack In India** & **Bajaj Finserv HealthRx Hackathon**  
+- 🏆 Winner, **SIIC Open Day**, SRM Institute of Science and Technology  
+
+---
+
+### 📢 Let’s Collaborate!
+I'm always open to cool new research ideas or robotics projects.  
+📬 Connect with me:
+- [📂 GitHub](https://www.github.com/yazidmarzuk)  
+- [💼 LinkedIn](https://www.linkedin.com/in/marzukkp)  
+
+---
+
+### 📊 GitHub Stats
 
 ![Marzuk's github stats](https://github-readme-stats.vercel.app/api?username=yazidmarzuk&count_private=true&show_icons=true&theme=dracula)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazidmarzuk&layout=compact&count_private=true&theme=dracula) 
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazidmarzuk&layout=compact&count_private=true&theme=dracula)
