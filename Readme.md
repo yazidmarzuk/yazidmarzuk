@@ -26,7 +26,6 @@
 - 📦 **Multiskill Mobile Manipulation (MSMM)** with Habitat-Lab  
 - 📱 **Real-time Teleoperation** using ARKit/ARCore phone pose via Unity → ROS bridge  
 - 🧤 **IMU-based Glove** for end-effector control and trajectory tracking  
-- 🌿 **Organic Farming e-Commerce Platform** (Business Dev + Full Stack MVP)  
 - 🧪 Setup of real-world grasp pipelines for **transparent/deformable objects** using **RGB-D + TransCG**
 
 ---
@@ -40,13 +39,6 @@
 
 ### 📢 Let’s Collaborate!
 I'm always open to cool new research ideas or robotics projects.  
-📬 Connect with me:
-- [📂 GitHub](https://www.github.com/yazidmarzuk)  
-- [💼 LinkedIn](https://www.linkedin.com/in/marzukkp)  
+📬 Connect with me here [💼 LinkedIn](https://www.linkedin.com/in/marzukkp)  
 
 ---
-
-### 📊 GitHub Stats
-
-![Marzuk's github stats](https://github-readme-stats.vercel.app/api?username=yazidmarzuk&count_private=true&show_icons=true&theme=dracula)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazidmarzuk&layout=compact&count_private=true&theme=dracula)
