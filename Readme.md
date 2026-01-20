@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-### I’m **Yazid Marzuk**, a Robotics Engineer from the **University of Michigan - Ann Arbor** 🇺🇸  
+### I’m **Yazid Marzuk**, a Robotics Grad Student at the **University of Michigan - Ann Arbor** 🇺🇸  
 
 ---
 
