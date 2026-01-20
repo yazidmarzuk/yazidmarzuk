@@ -6,7 +6,7 @@
 
 ### 🔬 Current Roles:
 - 🧠 **Research Assistant** at the [ROAHM Lab](https://roahm.engin.umich.edu/), working under Prof. **Ram Vasudevan**  
-- 🤖 **Robotics Software Intern** at **RightHand Robotics**, Boston, Massachusetts
+- 🤖 **Robotics Software Intern** at [**RightHand Robotics**]((https://roahm.engin.umich.edu/)), Boston, Massachusetts
 
 ---
 
